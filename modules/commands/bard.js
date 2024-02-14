@@ -8,7 +8,7 @@ module.exports.config = {
   credits: "Arjhil",// modified by Jonell Magallanes the api by kim
   description: "Bard ai",
   usePrefix: false,
-  commandCategory: "education",
+  commandCategory: "educ",
   usages: "<ask>",
   cooldowns: 5,
 };
